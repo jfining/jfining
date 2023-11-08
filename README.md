@@ -1,4 +1,4 @@
-![JPF_Logo](https://txt.1001fonts.net/img/txt/dHRmLjE1OC4wMDAwMDAuU2xCRy4w/whatever-brk.regular.webp)
+![JPF_Logo](./images/logo_no_alpha.png)
 
 # Home Lab
 My home lab is akin to Frankenstein's monster (Fining's monster?). The hardware ranges in manufacture date from 2012 to 2022. A decade of compute working together!
