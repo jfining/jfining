@@ -2,7 +2,7 @@
 
 I'm James Fining, owner of JPF Technology LLC. This is my personal repository of projects I like to work on in my spare time.
 
-JPF Technology is my company for consulting and software development. I focus on Cloud Enterprise Solutions, in both Architecture and Design and Software Development capacities. A few of my areas of expertise are:
+JPF Technology is my company for consulting and software development. I focus on:
 
 - Cloud Migrations
 - Monolith Application Decomposition
