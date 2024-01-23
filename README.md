@@ -36,27 +36,7 @@ Monster, indeed. The desktop was a $430 build (without the 8TB HDD). The 8TB HDD
 The powerline adapter negatively affects network performance when downloading from the internet (I'd probably get faster speeds using the WiFi in the laptops, that severe), but it's been very stable. It also allows for much more flexibility in where I can put the servers and router without running an ethernet cord across my apartment.
 
 
-# Bio
-I'm James Fining, owner of JPF Technology LLC. This is my personal repository of projects I like to work on in my spare time.
-
-JPF Technology is my company for consulting and software development. I focus on:
-
-- Cloud Migrations
-- Monolith Application Decomposition
-- Site Reliability
-- DevOps Best Practices
-- Microservice Architecture and Development
-
-Utilizing an array of technologies and programming languages, such as:
-- Python (my favorite!)
-- Linux
-- Kubernetes
-- Serverless Frameworks
-- Terraform
-- Docker & Docker Compose
-- Ansible
-
-
+### Social
 Let's connect on LinkedIn!
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/james-fining/)
